@@ -1,10 +1,10 @@
-1. What was the problem you were solving in the projects for this course?\n
+1. What was the problem you were solving in the projects for this course?
 The problem I was solving was interweaving algorithms into a program to make the program the most efficient. In the first project we had to create Pseudocode for a program that would print all of the courses alphanumerically. The second project was to implement that code.
-How did you approach the problem? Consider why data structures are important to understand.
+2. How did you approach the problem? Consider why data structures are important to understand.
 I used the lessons taught in the zybooks to approach the problem. The Zybooks outlines the basic layout of the algorithms and data structures. You just need to make them work for the problem you are working on and as I become a more advanced software engineer, my code can become more efficient while still advancing in efficiency.
-How did you overcome any roadblocks you encountered while going through the activities or project?
+3. How did you overcome any roadblocks you encountered while going through the activities or project?
 While going through the projects and activities, I did run into a few small issues like infinite loops and others. The IDE I used really helped with the syntax and making sure I was writing things that made sense. The infinite loops, I ran through the code multiple times to see where the issue would be and then would fix the code that I found errors in. Ultimately, the code was successful.
-How has your work on this project expanded your approach to designing software and developing programs?
+4. How has your work on this project expanded your approach to designing software and developing programs?
 Working on this project has given me a great deal more knowledge about data structures which are an integral part of developing programs. Without them, programs would be archaic and sluggish. These algorithms provide efficiency and ease of use. They also help isolate any locations that may have problems for future software engineers to maintain.
-How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 As I said in the previous answer, creating data structures helps future developers maintain the program. Algorithms make the code more readable and adaptable for future changes and additions. I was already a fan of making a large amount of functions in a code but this made me enjoy making functions, algorithms, structures, etc. I truly understand that the set up for the main is sometimes the most important part.
