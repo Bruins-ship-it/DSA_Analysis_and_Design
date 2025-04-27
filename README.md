@@ -1,4 +1,4 @@
-What was the problem you were solving in the projects for this course?
+1. What was the problem you were solving in the projects for this course?\n
 The problem I was solving was interweaving algorithms into a program to make the program the most efficient. In the first project we had to create Pseudocode for a program that would print all of the courses alphanumerically. The second project was to implement that code.
 How did you approach the problem? Consider why data structures are important to understand.
 I used the lessons taught in the zybooks to approach the problem. The Zybooks outlines the basic layout of the algorithms and data structures. You just need to make them work for the problem you are working on and as I become a more advanced software engineer, my code can become more efficient while still advancing in efficiency.
